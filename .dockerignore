@@ -1,0 +1,9 @@
+/*
+!/Dockerfile
+!/package.json
+!/__sapper__
+/__sapper__/*
+!/__sapper__/build
+!/static
+!/src
+!/rollup.config.js
